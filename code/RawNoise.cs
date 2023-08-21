@@ -1,6 +1,4 @@
-﻿//using System;
-
-namespace yawNoise
+﻿namespace yawNoise
 {
     public class RawNoise : IAsByte
     {

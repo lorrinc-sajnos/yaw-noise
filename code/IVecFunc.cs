@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace yawNoise
+﻿namespace yawNoise
 {
     /// <summary>
     /// For every point in the plane it returns a 2 dimensional vector

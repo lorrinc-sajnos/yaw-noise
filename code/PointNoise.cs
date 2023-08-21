@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace yawNoise
+﻿namespace yawNoise
 {
     /// <summary>
     /// A noise which has controlabbly spread out points in the plane
